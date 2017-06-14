@@ -1,2 +1,3 @@
 feature 1
 A new Feature
+I'm adding a feature from GitHub website
