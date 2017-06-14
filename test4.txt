@@ -3,3 +3,4 @@ feature 2
 feature 3
 feature 4
 Hello I'm a new developer!
+And I'm adding a new feature
